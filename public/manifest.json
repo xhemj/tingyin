@@ -1,0 +1,15 @@
+{
+  "short_name": "听音出题",
+  "name": "听音出题工具",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#ffffff"
+}
